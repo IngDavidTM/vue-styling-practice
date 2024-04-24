@@ -90,7 +90,7 @@ Clone this repository to your desired folder:
 
 ```sh
   git clone git@github.com:IngDavidTM/vue-styling-practice.git
-  cd vue-course-goals
+  cd vue-styling-practice
 ```
 
 ### Usage
